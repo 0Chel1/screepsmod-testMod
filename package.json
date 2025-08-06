@@ -1,0 +1,10 @@
+{
+  "name": "screepsmod-testmod",
+  "version": "1.0.0",
+  "description": "Testing",
+  "main": "index.js",
+  "scripts": {},
+  "screeps_mod": true,
+  "author": "Adam Shumann",
+  "dependencies": {}
+}
